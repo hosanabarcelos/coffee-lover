@@ -1,2 +1,1 @@
-# coffee-lover
-Pequeno projeto em React Native desenvolvido para a disciplina ''Desenvolvimento de Aplicações Distribuídas e Móveis''.
+<img src="https://github.com/hosanabarcelos/coffee-lover/blob/main/coffeeapp.png" width="280"/> <img src="https://github.com/hosanabarcelos/coffee-lover/blob/main/cl.png" width="200"/>
